@@ -6,7 +6,7 @@ import {
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 // Change this to your deployed backend URL
-const API_BASE = "https://churnsight-backend.onrender.com";
+const API_BASE = "https://churnsight-backend-1.onrender.com";
 
 // ─── Color tokens ─────────────────────────────────────────────────────────────
 const C = {
